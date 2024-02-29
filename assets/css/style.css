@@ -9,11 +9,11 @@ Description: This Template is created for Youtubers
 /* ===================================== Import Variables ================================== */
 @import url("https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300;400;600;800&display=swap");
 .bg-primary {
-  background-color: #183ff5 !important;
+  background-color: #41A713 !important;
 }
 
 .text-primary {
-  color: #183ff5;
+  color: #41A713;
 }
 
 /* ===================================== Basic CSS ==================================== */
@@ -258,38 +258,38 @@ body {
 }
 
 .btn-primary {
-  background-color: #183ff5;
-  border-color: #183ff5;
+  background-color: #41A713;
+  border-color: #41A713;
 }
 .btn-primary:hover {
-  background-color: #183ff5 !important;
-  border-color: #183ff5 !important;
+  background-color: #41A713 !important;
+  border-color: #41A713 !important;
 }
 .btn-primary:active {
-  background-color: #183ff5 !important;
-  border-color: #183ff5 !important;
+  background-color: #41A713 !important;
+  border-color: #41A713 !important;
 }
 .btn-primary:focus {
-  background-color: #183ff5 !important;
-  border-color: #183ff5 !important;
+  background-color: #41A713 !important;
+  border-color: #41A713 !important;
   box-shadow: none !important;
 }
 
 .btn-outline-primary {
-  border-color: #183ff5;
-  color: #183ff5;
+  border-color: #41A713;
+  color: #41A713;
 }
 .btn-outline-primary:hover {
-  background-color: #183ff5 !important;
-  border-color: #183ff5 !important;
+  background-color: #41A713 !important;
+  border-color: #41A713 !important;
 }
 .btn-outline-primary:active {
-  background-color: #183ff5 !important;
-  border-color: #183ff5 !important;
+  background-color: #41A713 !important;
+  border-color: #41A713 !important;
 }
 .btn-outline-primary:focus {
-  background-color: #183ff5 !important;
-  border-color: #183ff5 !important;
+  background-color: #41A713 !important;
+  border-color: #41A713 !important;
   box-shadow: none !important;
 }
 
@@ -555,7 +555,7 @@ body {
 }
 .about-us .diag-ro .about-diag .tex h5 {
   font-weight: 600;
-  color: #183ff5;
+  color: #41A713;
 }
 .about-us .diag-ro .about-diag .tex p {
   text-transform: uppercase;
@@ -591,7 +591,7 @@ body {
 .causes .cuses-row .caus-img img {
   width: 120px;
   border-radius: 50%;
-  border: 5px solid #183ff5;
+  border: 5px solid #41A713;
   box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
   margin-bottom: 20px;
 }
@@ -619,7 +619,7 @@ body {
 }
 .causes .cuses-row .donat-btn .btn {
   width: 60%;
-  background-color: #183ff5;
+  background-color: #41A713;
   border: #f78d15;
   text-transform: uppercase;
   font-weight: 600;
@@ -629,9 +629,9 @@ body {
 }
 
 footer .inner {
-  background-color: rgba(0, 0, 0, 0.7);
+  background-color: rgba(65, 163, 123, 0.8);
   padding: 50px;
-  color: #ccc;
+  color: black;
   font-size: 0.9rem;
 }
 @media screen and (max-width: 940px) {
